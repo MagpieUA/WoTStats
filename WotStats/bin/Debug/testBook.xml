@@ -1,0 +1,157 @@
+﻿<?xml version='1.0'?><Workbook xmlns='urn:schemas-microsoft-com:office:spreadsheet'
+                                xmlns:o='urn:schemas-microsoft-com:office:office'
+                                xmlns:x='urn:schemas-microsoft-com:office:excel'
+                                xmlns:ss='urn:schemas-microsoft-com:office:spreadsheet'
+                                xmlns:html='http://www.w3.org/TR/REC-html40'>
+                                <ExcelWorkbook xmlns='urn:schemas-microsoft-com:office:excel'>
+                                </ExcelWorkbook>
+<Styles>  <Style ss:ID='Default' ss:Name='Normal'>
+                              <Alignment ss:Vertical='Bottom'/>
+                              <Borders/>
+                              <Font ss:FontName='Arial Cyr' x:CharSet='204'/>
+                              <Interior/><NumberFormat/><Protection/></Style>
+<Style ss:ID='s21'><Font ss:FontName='Arial Cyr' x:CharSet='204' ss:Size='16'/>
+                                </Style>
+                                <Style ss:ID='s22'>
+                                <Borders>
+                                <Border ss:Position='Bottom' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                <Border ss:Position='Left' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                <Border ss:Position='Right' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                <Border ss:Position='Top' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                </Borders>
+                                </Style>
+                                <Style ss:ID='s23'>
+                                <Borders>
+                                <Border ss:Position='Bottom' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                <Border ss:Position='Left' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                <Border ss:Position='Right' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                <Border ss:Position='Top' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                </Borders>
+                                <Interior ss:Color='#FFFF99' ss:Pattern='Solid'/>
+                                </Style></Styles>
+<Worksheet ss:Name='testTable'>
+                               <Table>
+                               <Row ss:Height='20.25'>
+                               <Cell ss:StyleID='s21'><Data ss:Type='String'>Средний дамаг</Data></Cell>
+                               </Row>
+                               <Row ss:Index='3'>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Место</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Имя</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Значение</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>1</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>Artemon82           </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>1364</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>2</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>_Patriarh           </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>988</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>3</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>BeaverST            </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>938</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>4</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>Daniel_sl           </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>931</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>5</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>Effzett             </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>897</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>6</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>Skyge               </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>818</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>7</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>Mifka               </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>799</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>8</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>Deymos2856          </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>752</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>9</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>Magpie              </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>748</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>10</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>SomuaS35            </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>655</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>11</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>MalyshevPlant       </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>633</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>12</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>SLAVINSKIY          </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>594</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>13</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>Ezarin              </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>578</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>14</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>Kumho               </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>562</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>15</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>ibragim             </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>527</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>16</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>johich              </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>491</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>17</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>ChechenMaxwell      </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>476</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>18</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>Den_XT3             </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>456</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>19</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>AzziElbub           </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>453</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>20</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>NOVIK_ua            </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>449</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>21</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>Seysey              </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>416</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>22</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>Stelar              </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>401</Data></Cell>
+                               </Row>
+<Row>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>23</Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='String'>Maxud81             </Data></Cell>
+                               <Cell ss:StyleID='s22'><Data ss:Type='Number'>269</Data></Cell>
+                               </Row>
+</Table></Worksheet></Workbook>

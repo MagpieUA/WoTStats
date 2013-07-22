@@ -1,0 +1,1 @@
+﻿			<td><span>Общий рейтинг</span></td><td class="td-points"> 163</td><td class="td-place"> 18 349</td>

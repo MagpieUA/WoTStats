@@ -1,0 +1,1 @@
+﻿<td><span>+(?'n'[а-я\s]*)+</span></td><td\s*class="td-points">+(?'p'[0-9\s]*)+</td><td\s*class="td-place">+(?'w'[0-9\s]*)

@@ -1,0 +1,3 @@
+﻿<td><span>+([а-яё\s]*)+</span></td>
+<td class="">+([а-яё:\s]+)+</td>
+<td class="td-name">+([а-яёa-zä\d\s\(\)-]+)+</td>

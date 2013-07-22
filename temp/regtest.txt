@@ -1,0 +1,3 @@
+﻿<td><span>+([а-яё\s]*)+</span></td><td\s*class="td-points">+([0-9\%\s]*)+</td><td\s*class="td-place">+([0-9\s]*)
+<td class="td-title">+([а-яё:\s]+)+</td>
+<td class="td-name">+([а-яёa-zä\d\s\(\)-]+)+</td>

@@ -1,0 +1,2486 @@
+﻿<?xml version='1.0'?><Workbook xmlns='urn:schemas-microsoft-com:office:spreadsheet'
+                                xmlns:o='urn:schemas-microsoft-com:office:office'
+                                xmlns:x='urn:schemas-microsoft-com:office:excel'
+                                xmlns:ss='urn:schemas-microsoft-com:office:spreadsheet'
+                                xmlns:html='http://www.w3.org/TR/REC-html40'>
+                                <ExcelWorkbook xmlns='urn:schemas-microsoft-com:office:excel'>
+                                </ExcelWorkbook>
+<Styles>  <Style ss:ID='Default' ss:Name='Normal'>
+                              <Alignment ss:Vertical='Bottom'/>
+                              <Borders/>
+                              <Font ss:FontName='Arial Cyr' x:CharSet='204'/>
+                              <Interior/><NumberFormat/><Protection/></Style>
+<Style ss:ID='s21'><Font ss:FontName='Arial Cyr' x:CharSet='204' ss:Size='16'/>
+                                </Style>
+                                <Style ss:ID='s22'>
+                                <Borders>
+                                <Border ss:Position='Bottom' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                <Border ss:Position='Left' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                <Border ss:Position='Right' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                <Border ss:Position='Top' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                </Borders>
+                                <NumberFormat ss:Format='0.0000'/>
+                                </Style>
+                                <Style ss:ID='s23'>
+                                <Borders>
+                                <Border ss:Position='Bottom' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                <Border ss:Position='Left' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                <Border ss:Position='Right' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                <Border ss:Position='Top' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                </Borders>
+                                <Interior ss:Color='#FFFF99' ss:Pattern='Solid'/>
+                                </Style>
+                                <Style ss:ID='s24'>
+                                <Borders>
+                                <Border ss:Position='Bottom' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                <Border ss:Position='Left' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                <Border ss:Position='Right' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                <Border ss:Position='Top' ss:LineStyle='Continuous' ss:Weight='1'/>
+                                </Borders>
+                                </Style></Styles>
+<Worksheet ss:Name='Средний опыт'>
+                               <Table>
+                               <Column ss:Width='50'/><Column ss:Width='150'/>
+                               <Row ss:Height='20.25'>
+                               <Cell ss:StyleID='s21'><Data ss:Type='String'>Средний опыт</Data></Cell>
+                               </Row>
+                               <Row ss:Index='3'>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Место</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Имя</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Значение</Data></Cell>
+                               </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>LionelDjonson                           </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>663.4393</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ctmdima                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>601.1621</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Mavikyar                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>562.1844</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>zik86                                   </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>552.7321</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>_Patriarh                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>551.7834</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Necrons                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>531.0249</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morbogen                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>518.1581</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>arc_angel                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>517.3578</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slon197622                              </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>514.9222</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>10</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SaNyA97rus                              </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>506.7451</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>11</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SomuaS35                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>504.9871</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>12</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>RichiM                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>488.2576</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>13</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Den_XT3                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>484.5827</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>14</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>snap_d                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>480.1765</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>15</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morere                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>445.9988</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>16</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ma3uLa                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>445.8339</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>17</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>tato3                                   </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>440.9070</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>18</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slavasheva81                            </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>435.3429</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>19</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ChechenMaxwell                          </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>427.9630</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>20</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ibragim                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>419.5873</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>21</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Fen_ua                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>412.4269</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>22</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Stelar                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>401.9245</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>23</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Pasha_O                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>383.9537</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>24</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Rize                                    </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>383.0520</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>25</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Litrovich                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>381.0949</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>26</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>sasha73y                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>366.6526</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>27</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>monverdi                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>357.9308</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>28</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>favnserg                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>356.8687</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>29</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Warchild1                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>346.4630</Data></Cell>
+                            </Row>
+<Row></Row>
+<Row>
+                        <Cell></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='String'>В среднем</Data></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='Number'>481.5540</Data></Cell>
+                        </Row>
+</Table></Worksheet>
+<Worksheet ss:Name='Убито за бой'>
+                               <Table>
+                               <Column ss:Width='50'/><Column ss:Width='150'/>
+                               <Row ss:Height='20.25'>
+                               <Cell ss:StyleID='s21'><Data ss:Type='String'>Убито за бой</Data></Cell>
+                               </Row>
+                               <Row ss:Index='3'>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Место</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Имя</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Значение</Data></Cell>
+                               </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>LionelDjonson                           </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.4965</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>_Patriarh                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.2763</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morbogen                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.1809</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slavasheva81                            </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.1654</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Fen_ua                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.1635</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>snap_d                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.1427</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Warchild1                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.1336</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Mavikyar                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.1078</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SomuaS35                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.0471</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>10</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Den_XT3                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.0266</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>11</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ibragim                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.0248</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>12</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SaNyA97rus                              </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9756</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>13</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>zik86                                   </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9698</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>14</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>arc_angel                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9680</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>15</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ctmdima                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9583</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>16</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ChechenMaxwell                          </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9511</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>17</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Rize                                    </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9287</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>18</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>monverdi                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8789</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>19</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>favnserg                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8639</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>20</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slon197622                              </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8568</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>21</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Necrons                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8485</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>22</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ma3uLa                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8485</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>23</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morere                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8381</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>24</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Litrovich                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8223</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>25</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>tato3                                   </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.7510</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>26</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>RichiM                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.7117</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>27</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Pasha_O                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.7028</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>28</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>sasha73y                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.6304</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>29</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Stelar                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.6304</Data></Cell>
+                            </Row>
+<Row></Row>
+<Row>
+                        <Cell></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='String'>В среднем</Data></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9964</Data></Cell>
+                        </Row>
+</Table></Worksheet>
+<Worksheet ss:Name='Средний дамаг'>
+                               <Table>
+                               <Column ss:Width='50'/><Column ss:Width='150'/>
+                               <Row ss:Height='20.25'>
+                               <Cell ss:StyleID='s21'><Data ss:Type='String'>Средний дамаг</Data></Cell>
+                               </Row>
+                               <Row ss:Index='3'>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Место</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Имя</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Значение</Data></Cell>
+                               </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>LionelDjonson                           </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1297.1102</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>_Patriarh                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1177.3430</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Fen_ua                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>993.5897</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morbogen                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>983.9372</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>snap_d                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>967.6474</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>arc_angel                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>959.5915</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Mavikyar                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>945.9491</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ctmdima                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>941.0376</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>zik86                                   </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>937.6278</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>10</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slavasheva81                            </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>862.5629</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>11</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slon197622                              </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>816.5614</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>12</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Den_XT3                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>811.8641</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>13</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SomuaS35                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>796.5326</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>14</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ibragim                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>783.0160</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>15</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ma3uLa                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>748.0425</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>16</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>tato3                                   </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>733.9954</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>17</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>favnserg                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>727.8880</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>18</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Rize                                    </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>725.0644</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>19</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SaNyA97rus                              </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>697.8665</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>20</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morere                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>684.4789</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>21</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>RichiM                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>674.6433</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>22</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>monverdi                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>672.5011</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>23</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Necrons                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>639.9841</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>24</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Litrovich                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>638.5488</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>25</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ChechenMaxwell                          </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>619.1756</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>26</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Stelar                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>570.0557</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>27</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Pasha_O                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>555.7850</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>28</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>sasha73y                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>550.8242</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>29</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Warchild1                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>443.4593</Data></Cell>
+                            </Row>
+<Row></Row>
+<Row>
+                        <Cell></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='String'>В среднем</Data></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='Number'>819.8815</Data></Cell>
+                        </Row>
+</Table></Worksheet>
+<Worksheet ss:Name='Процент побед'>
+                               <Table>
+                               <Column ss:Width='50'/><Column ss:Width='150'/>
+                               <Row ss:Height='20.25'>
+                               <Cell ss:StyleID='s21'><Data ss:Type='String'>Процент побед</Data></Cell>
+                               </Row>
+                               <Row ss:Index='3'>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Место</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Имя</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Значение</Data></Cell>
+                               </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>_Patriarh                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5515</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>LionelDjonson                           </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5501</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slavasheva81                            </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5497</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SomuaS35                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5385</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Den_XT3                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5355</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morbogen                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5343</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Warchild1                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5290</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Fen_ua                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5236</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ctmdima                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5164</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>10</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Rize                                    </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5144</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>11</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>arc_angel                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5109</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>12</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Necrons                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5100</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>13</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>RichiM                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5060</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>14</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Litrovich                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5038</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>15</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Mavikyar                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5037</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>16</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ChechenMaxwell                          </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5028</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>17</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SaNyA97rus                              </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5020</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>18</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>zik86                                   </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5009</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>19</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morere                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5009</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>20</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>snap_d                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.4992</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>21</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>monverdi                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.4954</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>22</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>tato3                                   </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.4945</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>23</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Pasha_O                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.4928</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>24</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slon197622                              </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.4870</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>25</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ibragim                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.4866</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>26</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ma3uLa                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.4849</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>27</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>sasha73y                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.4730</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>28</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Stelar                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.4726</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>29</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>favnserg                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.4497</Data></Cell>
+                            </Row>
+<Row></Row>
+<Row>
+                        <Cell></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='String'>В среднем</Data></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5257</Data></Cell>
+                        </Row>
+</Table></Worksheet>
+<Worksheet ss:Name='Средний захват'>
+                               <Table>
+                               <Column ss:Width='50'/><Column ss:Width='150'/>
+                               <Row ss:Height='20.25'>
+                               <Cell ss:StyleID='s21'><Data ss:Type='String'>Средний захват</Data></Cell>
+                               </Row>
+                               <Row ss:Index='3'>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Место</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Имя</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Значение</Data></Cell>
+                               </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slon197622                              </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>2.0464</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ibragim                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>2.0149</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SaNyA97rus                              </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.9661</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ctmdima                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.8236</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>LionelDjonson                           </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.7605</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Den_XT3                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.7246</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>monverdi                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.6626</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Rize                                    </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.6481</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>zik86                                   </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.5609</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>10</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Fen_ua                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.4805</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>11</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Stelar                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.4369</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>12</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>_Patriarh                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.3692</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>13</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Pasha_O                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.3390</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>14</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ma3uLa                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.2537</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>15</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morbogen                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.1535</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>16</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ChechenMaxwell                          </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.1515</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>17</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morere                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.1417</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>18</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slavasheva81                            </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.0794</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>19</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SomuaS35                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.0515</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>20</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>tato3                                   </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9264</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>21</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Litrovich                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8857</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>22</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>favnserg                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8467</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>23</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Warchild1                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8426</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>24</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Necrons                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8320</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>25</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>snap_d                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8237</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>26</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>sasha73y                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.7773</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>27</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Mavikyar                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.7216</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>28</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>arc_angel                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.7075</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>29</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>RichiM                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5725</Data></Cell>
+                            </Row>
+<Row></Row>
+<Row>
+                        <Cell></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='String'>В среднем</Data></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.3072</Data></Cell>
+                        </Row>
+</Table></Worksheet>
+<Worksheet ss:Name='Средняя защита'>
+                               <Table>
+                               <Column ss:Width='50'/><Column ss:Width='150'/>
+                               <Row ss:Height='20.25'>
+                               <Cell ss:StyleID='s21'><Data ss:Type='String'>Средняя защита</Data></Cell>
+                               </Row>
+                               <Row ss:Index='3'>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Место</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Имя</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Значение</Data></Cell>
+                               </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SaNyA97rus                              </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.4441</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SomuaS35                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.4110</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slavasheva81                            </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.4055</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morbogen                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.3058</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>LionelDjonson                           </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.2357</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Den_XT3                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.2265</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Mavikyar                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.1636</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>snap_d                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.0800</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Warchild1                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.0505</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>10</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Fen_ua                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.0477</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>11</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Pasha_O                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.0035</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>12</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Rize                                    </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9995</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>13</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>arc_angel                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9252</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>14</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>zik86                                   </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9176</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>15</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>_Patriarh                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9001</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>16</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>tato3                                   </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8925</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>17</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>favnserg                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8648</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>18</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ibragim                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8460</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>19</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ctmdima                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8330</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>20</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ma3uLa                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.7518</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>21</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Stelar                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.7486</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>22</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Litrovich                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.6833</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>23</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ChechenMaxwell                          </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.6416</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>24</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morere                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.6413</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>25</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slon197622                              </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.6284</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>26</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>sasha73y                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.6136</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>27</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>monverdi                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5637</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>28</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Necrons                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.5083</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>29</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>RichiM                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.4006</Data></Cell>
+                            </Row>
+<Row></Row>
+<Row>
+                        <Cell></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='String'>В среднем</Data></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9548</Data></Cell>
+                        </Row>
+</Table></Worksheet>
+<Worksheet ss:Name='Обнаружено за бой'>
+                               <Table>
+                               <Column ss:Width='50'/><Column ss:Width='150'/>
+                               <Row ss:Height='20.25'>
+                               <Cell ss:StyleID='s21'><Data ss:Type='String'>Обнаружено за бой</Data></Cell>
+                               </Row>
+                               <Row ss:Index='3'>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Место</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Имя</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Значение</Data></Cell>
+                               </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>RichiM                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.8725</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slavasheva81                            </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.8086</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Necrons                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.4993</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ctmdima                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.4893</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slon197622                              </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.4800</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>tato3                                   </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.2418</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>arc_angel                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.2030</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>zik86                                   </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.1381</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morbogen                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.0878</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>10</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Den_XT3                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.0811</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>11</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Litrovich                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.0747</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>12</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morere                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.0685</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>13</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SaNyA97rus                              </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.0124</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>14</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Rize                                    </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9846</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>15</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>snap_d                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9596</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>16</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>_Patriarh                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9513</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>17</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>LionelDjonson                           </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9329</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>18</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>monverdi                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9011</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>19</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Pasha_O                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9009</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>20</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SomuaS35                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.9003</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>21</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ma3uLa                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8509</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>22</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Warchild1                               </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8317</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>23</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Fen_ua                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.8108</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>24</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ChechenMaxwell                          </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.7486</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>25</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>sasha73y                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.7449</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>26</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Mavikyar                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.6844</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>27</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ibragim                                 </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.6736</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>28</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Stelar                                  </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.6577</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>29</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>favnserg                                </Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='Number'>0.6274</Data></Cell>
+                            </Row>
+<Row></Row>
+<Row>
+                        <Cell></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='String'>В среднем</Data></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='Number'>1.0792</Data></Cell>
+                        </Row>
+</Table></Worksheet>
+<Worksheet ss:Name='Сыграно боев'>
+                               <Table>
+                               <Column ss:Width='50'/><Column ss:Width='150'/>
+                               <Row ss:Height='20.25'>
+                               <Cell ss:StyleID='s21'><Data ss:Type='String'>Сыграно боев</Data></Cell>
+                               </Row>
+                               <Row ss:Index='3'>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Место</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Имя</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Значение</Data></Cell>
+                               </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>snap_d                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9066</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>favnserg                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8278</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SomuaS35                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7750</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>LionelDjonson                           </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7466</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Rize                                    </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7422</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slavasheva81                            </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7151</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Stelar                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6731</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ibragim                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6363</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ctmdima                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6144</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>10</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morbogen                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6129</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>11</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>_Patriarh                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6116</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>12</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Litrovich                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6028</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>13</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>sasha73y                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5955</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>14</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>monverdi                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5492</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>15</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>tato3                                   </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5406</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>16</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Pasha_O                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5209</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>17</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Fen_ua                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5174</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>18</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Den_XT3                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5152</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>19</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SaNyA97rus                              </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4990</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>20</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>arc_angel                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4561</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>21</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slon197622                              </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4435</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>22</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>zik86                                   </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4404</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>23</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ChechenMaxwell                          </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4356</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>24</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morere                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4101</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>25</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>RichiM                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3490</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>26</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ma3uLa                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3413</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>27</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Necrons                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2892</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>28</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Mavikyar                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2690</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>29</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Warchild1                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2395</Data></Cell>
+                            </Row>
+<Row></Row>
+<Row>
+                        <Cell></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='String'>В среднем</Data></Cell>
+                        <Cell ss:StyleID='s24'><Data ss:Type='Number'>5669</Data></Cell>
+                        </Row>
+</Table></Worksheet>
+<Worksheet ss:Name='Максимальный опыт'>
+                               <Table>
+                               <Column ss:Width='50'/><Column ss:Width='150'/>
+                               <Row ss:Height='20.25'>
+                               <Cell ss:StyleID='s21'><Data ss:Type='String'>Максимальный опыт</Data></Cell>
+                               </Row>
+                               <Row ss:Index='3'>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Место</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Имя</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Значение</Data></Cell>
+                               </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SomuaS35                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2838</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>LionelDjonson                           </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2413</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morbogen                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2413</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slavasheva81                            </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2382</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>arc_angel                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2382</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ctmdima                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2298</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>monverdi                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2290</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>tato3                                   </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2272</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Necrons                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2259</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>10</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>zik86                                   </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2176</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>11</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>_Patriarh                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2176</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>12</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Den_XT3                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2133</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>13</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ChechenMaxwell                          </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2115</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>14</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Pasha_O                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2113</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>15</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morere                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2094</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>16</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>RichiM                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2071</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>17</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ma3uLa                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2067</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>18</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SaNyA97rus                              </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2061</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>19</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slon197622                              </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2023</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>20</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ibragim                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2013</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>21</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Stelar                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1971</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>22</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Rize                                    </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1936</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>23</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>snap_d                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1935</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>24</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Litrovich                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1873</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>25</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Fen_ua                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1861</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>26</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Mavikyar                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1842</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>27</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>favnserg                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1833</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>28</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>sasha73y                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1825</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>29</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Warchild1                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1642</Data></Cell>
+                            </Row>
+<Row></Row>
+<Row>
+                        <Cell></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='String'>В среднем</Data></Cell>
+                        <Cell ss:StyleID='s24'><Data ss:Type='Number'>2189</Data></Cell>
+                        </Row>
+</Table></Worksheet>
+<Worksheet ss:Name='Убито врагов'>
+                               <Table>
+                               <Column ss:Width='50'/><Column ss:Width='150'/>
+                               <Row ss:Height='20.25'>
+                               <Cell ss:StyleID='s21'><Data ss:Type='String'>Убито врагов</Data></Cell>
+                               </Row>
+                               <Row ss:Index='3'>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Место</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Имя</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Значение</Data></Cell>
+                               </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>LionelDjonson                           </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>11173</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>snap_d                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>10360</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slavasheva81                            </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8334</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SomuaS35                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8115</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>_Patriarh                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7806</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morbogen                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7238</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>favnserg                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7151</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Rize                                    </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6893</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ibragim                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6521</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>10</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Fen_ua                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6020</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>11</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ctmdima                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5888</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>12</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Den_XT3                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5289</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>13</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Litrovich                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4957</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>14</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SaNyA97rus                              </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4868</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>15</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>monverdi                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4827</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>16</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>arc_angel                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4415</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>17</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>zik86                                   </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4271</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>18</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Stelar                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4243</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>19</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ChechenMaxwell                          </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4143</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>20</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>tato3                                   </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4060</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>21</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slon197622                              </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3800</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>22</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>sasha73y                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3754</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>23</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Pasha_O                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3661</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>24</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morere                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3437</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>25</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Mavikyar                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2980</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>26</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ma3uLa                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2896</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>27</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Warchild1                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2715</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>28</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>RichiM                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2484</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>29</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Necrons                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2454</Data></Cell>
+                            </Row>
+<Row></Row>
+<Row>
+                        <Cell></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='String'>В среднем</Data></Cell>
+                        <Cell ss:StyleID='s24'><Data ss:Type='Number'>5526</Data></Cell>
+                        </Row>
+</Table></Worksheet>
+<Worksheet ss:Name='Нанесенный дамаг'>
+                               <Table>
+                               <Column ss:Width='50'/><Column ss:Width='150'/>
+                               <Row ss:Height='20.25'>
+                               <Cell ss:StyleID='s21'><Data ss:Type='String'>Нанесенный дамаг</Data></Cell>
+                               </Row>
+                               <Row ss:Index='3'>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Место</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Имя</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Значение</Data></Cell>
+                               </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>LionelDjonson                           </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9684225</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>snap_d                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8772691</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>_Patriarh                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7200630</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SomuaS35                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6173128</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slavasheva81                            </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6168187</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morbogen                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6030551</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>favnserg                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6025457</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ctmdima                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5781735</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Rize                                    </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5381428</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>10</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Fen_ua                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5140833</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>11</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ibragim                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4982331</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>12</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>arc_angel                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4376697</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>13</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Den_XT3                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4182724</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>14</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>zik86                                   </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4129313</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>15</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>tato3                                   </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3967979</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>16</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Litrovich                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3849172</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>17</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Stelar                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3837045</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>18</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>monverdi                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3693376</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>19</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slon197622                              </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3621450</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>20</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SaNyA97rus                              </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3482354</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>21</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>sasha73y                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3280158</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>22</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Pasha_O                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2895084</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>23</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morere                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2807048</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>24</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ChechenMaxwell                          </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2697129</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>25</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ma3uLa                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2553069</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>26</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Mavikyar                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2544603</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>27</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>RichiM                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2354505</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>28</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Necrons                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1850834</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>29</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Warchild1                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1062085</Data></Cell>
+                            </Row>
+<Row></Row>
+<Row>
+                        <Cell></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='String'>В среднем</Data></Cell>
+                        <Cell ss:StyleID='s24'><Data ss:Type='Number'>4590207</Data></Cell>
+                        </Row>
+</Table></Worksheet>
+<Worksheet ss:Name='Кол-во пПобед'>
+                               <Table>
+                               <Column ss:Width='50'/><Column ss:Width='150'/>
+                               <Row ss:Height='20.25'>
+                               <Cell ss:StyleID='s21'><Data ss:Type='String'>Кол-во пПобед</Data></Cell>
+                               </Row>
+                               <Row ss:Index='3'>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Место</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Имя</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Значение</Data></Cell>
+                               </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>snap_d                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4526</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SomuaS35                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4173</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>LionelDjonson                           </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4107</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slavasheva81                            </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3931</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Rize                                    </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3818</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>favnserg                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3723</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>_Patriarh                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3373</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morbogen                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3275</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Stelar                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3181</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>10</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ctmdima                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3173</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>11</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ibragim                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3096</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>12</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Litrovich                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3037</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>13</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>sasha73y                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2817</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>14</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Den_XT3                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2759</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>15</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>monverdi                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2721</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>16</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Fen_ua                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2709</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>17</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>tato3                                   </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2673</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>18</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Pasha_O                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2567</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>19</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SaNyA97rus                              </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2505</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>20</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>arc_angel                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2330</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>21</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>zik86                                   </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2206</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>22</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ChechenMaxwell                          </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2190</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>23</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slon197622                              </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2160</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>24</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morere                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2054</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>25</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>RichiM                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1766</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>26</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ma3uLa                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1655</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>27</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Necrons                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1475</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>28</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Mavikyar                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1355</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>29</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Warchild1                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1267</Data></Cell>
+                            </Row>
+<Row></Row>
+<Row>
+                        <Cell></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='String'>В среднем</Data></Cell>
+                        <Cell ss:StyleID='s24'><Data ss:Type='Number'>2879</Data></Cell>
+                        </Row>
+</Table></Worksheet>
+<Worksheet ss:Name='Захват базы'>
+                               <Table>
+                               <Column ss:Width='50'/><Column ss:Width='150'/>
+                               <Row ss:Height='20.25'>
+                               <Cell ss:StyleID='s21'><Data ss:Type='String'>Захват базы</Data></Cell>
+                               </Row>
+                               <Row ss:Index='3'>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Место</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Имя</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Значение</Data></Cell>
+                               </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>LionelDjonson                           </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>13144</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ibragim                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>12821</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Rize                                    </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>12232</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ctmdima                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>11204</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SaNyA97rus                              </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9811</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Stelar                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9672</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>monverdi                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9131</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slon197622                              </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9076</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Den_XT3                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8885</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>10</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>_Patriarh                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8374</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>11</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SomuaS35                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8149</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>12</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slavasheva81                            </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7719</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>13</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Fen_ua                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7660</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>14</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>snap_d                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7468</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>15</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morbogen                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7070</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>16</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>favnserg                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7009</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>17</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Pasha_O                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6975</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>18</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>zik86                                   </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6874</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>19</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Litrovich                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5339</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>20</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ChechenMaxwell                          </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5016</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>21</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>tato3                                   </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5008</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>22</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morere                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4682</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>23</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>sasha73y                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4629</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>24</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ma3uLa                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4279</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>25</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>arc_angel                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3227</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>26</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Necrons                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2406</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>27</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Warchild1                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2018</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>28</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>RichiM                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1998</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>29</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Mavikyar                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1941</Data></Cell>
+                            </Row>
+<Row></Row>
+<Row>
+                        <Cell></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='String'>В среднем</Data></Cell>
+                        <Cell ss:StyleID='s24'><Data ss:Type='Number'>7279</Data></Cell>
+                        </Row>
+</Table></Worksheet>
+<Worksheet ss:Name='Защита базы'>
+                               <Table>
+                               <Column ss:Width='50'/><Column ss:Width='150'/>
+                               <Row ss:Height='20.25'>
+                               <Cell ss:StyleID='s21'><Data ss:Type='String'>Защита базы</Data></Cell>
+                               </Row>
+                               <Row ss:Index='3'>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Место</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Имя</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Значение</Data></Cell>
+                               </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SomuaS35                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>10935</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slavasheva81                            </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>10051</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>snap_d                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9791</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>LionelDjonson                           </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9226</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morbogen                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8003</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Rize                                    </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7418</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SaNyA97rus                              </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7206</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>favnserg                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7159</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Den_XT3                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6319</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>10</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>_Patriarh                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5505</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>11</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Fen_ua                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5421</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>12</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ibragim                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5383</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>13</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Pasha_O                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5227</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>14</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ctmdima                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5118</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>15</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Stelar                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5039</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>16</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>tato3                                   </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4825</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>17</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>arc_angel                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4220</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>18</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Litrovich                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4119</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>19</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>zik86                                   </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4041</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>20</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>sasha73y                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3654</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>21</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Mavikyar                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3130</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>22</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>monverdi                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3096</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>23</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ChechenMaxwell                          </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2795</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>24</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slon197622                              </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2787</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>25</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morere                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2630</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>26</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ma3uLa                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2566</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>27</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Warchild1                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2516</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>28</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Necrons                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1470</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>29</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>RichiM                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1398</Data></Cell>
+                            </Row>
+<Row></Row>
+<Row>
+                        <Cell></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='String'>В среднем</Data></Cell>
+                        <Cell ss:StyleID='s24'><Data ss:Type='Number'>5394</Data></Cell>
+                        </Row>
+</Table></Worksheet>
+<Worksheet ss:Name='Обнаружено врагов'>
+                               <Table>
+                               <Column ss:Width='50'/><Column ss:Width='150'/>
+                               <Row ss:Height='20.25'>
+                               <Cell ss:StyleID='s21'><Data ss:Type='String'>Обнаружено врагов</Data></Cell>
+                               </Row>
+                               <Row ss:Index='3'>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Место</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Имя</Data></Cell>
+                               <Cell ss:StyleID='s23'><Data ss:Type='String'>Значение</Data></Cell>
+                               </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slavasheva81                            </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>12933</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ctmdima                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9150</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>snap_d                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8700</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Rize                                    </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7308</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SomuaS35                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6977</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>LionelDjonson                           </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6965</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>7</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>tato3                                   </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6713</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>8</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morbogen                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6667</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>9</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>slon197622                              </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6564</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>10</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>RichiM                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6535</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>11</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Litrovich                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>6478</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>12</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>_Patriarh                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5818</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>13</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Den_XT3                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5570</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>14</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>arc_angel                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5487</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>15</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>favnserg                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5194</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>16</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>SaNyA97rus                              </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5052</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>17</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>zik86                                   </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>5012</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>18</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>monverdi                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4949</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>19</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Pasha_O                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4693</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>20</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>sasha73y                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4436</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>21</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Stelar                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4427</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>22</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>morere                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4382</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>23</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Necrons                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4336</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>24</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ibragim                                 </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4286</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>25</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Fen_ua                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>4195</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>26</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ChechenMaxwell                          </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>3261</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>27</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>ma3uLa                                  </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>2904</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>28</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Warchild1                               </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1992</Data></Cell>
+                            </Row>
+<Row>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>29</Data></Cell>
+                            <Cell ss:StyleID='s22'><Data ss:Type='String'>Mavikyar                                </Data></Cell>
+                            <Cell ss:StyleID='s24'><Data ss:Type='Number'>1841</Data></Cell>
+                            </Row>
+<Row></Row>
+<Row>
+                        <Cell></Cell>
+                        <Cell ss:StyleID='s22'><Data ss:Type='String'>В среднем</Data></Cell>
+                        <Cell ss:StyleID='s24'><Data ss:Type='Number'>5815</Data></Cell>
+                        </Row>
+</Table></Worksheet>
+</Workbook>

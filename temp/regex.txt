@@ -1,0 +1,1 @@
+﻿<td><span>([а-я\s]*)</span></td><td\s*class="td-points">([0-9\s]*)</td><td\s*class="td-place">([0-9\s]*)
